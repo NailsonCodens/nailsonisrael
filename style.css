@@ -20,7 +20,7 @@ body, .curriculum{
 }
 
 .side-rigth{
-    padding: 30px 30px;
+    padding: 25px 25px;
 }
 
 .photo-me{
@@ -34,7 +34,7 @@ body, .curriculum{
 }
 
 .sections-side{
-    margin: 20px;
+    margin: 25px;
 }
 
 h1{
@@ -64,6 +64,10 @@ h3, h5{
     margin-bottom: 40px;
 }
 
+.sections-side p a{
+    color: #fff;
+}
+
 .profission{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
@@ -78,8 +82,16 @@ h3, h5{
     background: #247DDB;
 }
 
+.title-side-left{
+    margin: 25px 0px;
+    margin-top: 70px;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;    
+}
+
 .title-side-right{
     margin: 25px 0px;
+    margin-top: 70px;
     font-family: 'Poppins', sans-serif;
     color: #565656;
 }
@@ -88,4 +100,8 @@ h3, h5{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 1.0rem;    
+}
+
+.title-exp, .text-exp{
+    margin-top: 30px !important;
 }
